@@ -1,0 +1,23 @@
+.panda img
+{
+    height:600px;
+    width:50%;
+}
+.left 
+{
+    margin-top: 200px;
+    margin-right:350px;
+    float: right;
+}
+h1
+{
+    color: rgb(33, 156, 33);
+}
+button
+{
+    margin-left: 50px;
+    background-color: white;
+    border: 1px solid green;
+    border-radius: 7px;
+    color: green;
+}

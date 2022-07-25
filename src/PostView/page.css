@@ -1,0 +1,69 @@
+.centered-box
+{
+
+    text-align: center;
+    margin-bottom: 20px;
+}
+.name 
+{
+    font-weight: bold;
+    width:200px;
+}
+.location
+{
+    color: gray;
+    width:200px;
+}
+.justify
+{
+    text-align: justify;
+    margin-left: 572px;
+    margin-bottom: 5px;
+}
+.three
+{
+  position:absolute;
+  margin-top: 10px;
+  margin-left:900px;
+  font-weight: bolder;
+  font-size: large;
+}
+
+.same
+{
+    margin-left: 557px;
+}
+.date
+{
+    padding-left: 75px;
+    color: gray;
+    font-size: 12px;
+}
+.text
+{
+    margin-right: 166px;
+    color: gray;
+    font-size: 12px;
+}
+.des
+{
+    margin-left:570px
+}
+.topper
+{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 20px;
+    color:rgb(53, 53, 233);
+    font-size: 20px;
+}
+.header
+{
+    margin-left:20px;
+    margin-bottom:20px;
+}
+.align
+{
+    margin-top:2px;
+    margin-left: 1100px;
+}
